@@ -1,0 +1,35 @@
+,FrequentWords
+exercise9_1(a),mehr 
+exercise9_1(b),between 
+exercise9_1(c),orderby 
+exercise9_1(d),
+exercise9_1(e),select 
+exercise9_1(f),select 
+exercise9_1(g),select min 
+exercise9_2(a),cast 
+exercise9_2(b),difference cast 
+exercise9_2(c),difference orderby 
+exercise9_2(d),
+exercise9_2(e),where select 
+exercise9_3(a),not count 
+exercise9_3(b),count 
+exercise9_3(c),avg avg 
+exercise9_3(d),count sum sum 
+exercise9_3(e),min min 
+exercise9_3(f),difference 
+exercise9_4(a),select select distinct 
+exercise9_4(b),select select distinct 
+exercise9_4(c),select select distinct 
+exercise9_5(a),naturaljoin 
+exercise9_5(b),leftouterjoin 
+exercise9_5(c),rightouterjoin 
+exercise9_5(d),fullouterjoin 
+exercise3_1,create 
+exercise3_2,insert update create alter 
+exercise3_3,create default 
+exercise3_4,create 
+exercise3_5(a),insert 
+exercise3_5(b),insert insert default 
+exercise3_6(a),update 
+exercise3_6(b),delete 
+exercise3_6(c),drop 

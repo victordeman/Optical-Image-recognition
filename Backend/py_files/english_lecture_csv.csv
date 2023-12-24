@@ -1,0 +1,168 @@
+,FrequentWords
+dbs-2-page_1,
+dbs-2-page_2,
+dbs-2-page_3,
+dbs-2-page_4,
+dbs-2-page_5,
+dbs-2-page_6,
+dbs-2-page_7,
+dbs-2-page_8,
+dbs-2-page_9,
+dbs-2-page_10,
+dbs-2-page_11,
+dbs-2-page_12,
+dbs-2-page_13,
+dbs-2-page_14,foreignkey foreignkey 
+dbs-2-page_15,
+dbs-2-page_16,
+dbs-2-page_17,create create 
+dbs-2-page_18,count count 
+dbs-2-page_19,create create primarykey primarykey 
+dbs-2-page_20,create create primarykey foreignkey foreignkey foreignkey foreignkey 
+dbs-2-page_21,
+dbs-2-page_22,create 
+dbs-2-page_23,
+dbs-2-page_24,
+dbs-2-page_25,join 
+dbs-2-page_26,
+dbs-2-page_27,
+dbs-2-page_28,
+dbs-2-page_29,join join naturaljoin 
+dbs-2-page_30,join join naturaljoin 
+dbs-2-page_31,
+dbs-2-page_32,
+dbs-2-page_33,
+dbs-2-page_34,difference 
+dbs-2-page_35,intersection 
+dbs-2-page_36,
+dbs-2-page_37,distinct distinct select select 
+dbs-2-page_38,select select select join join join join join join join naturaljoin naturaljoin 
+dbs-2-page_39,select 
+dbs-2-page_40,select select 
+dbs-2-page_41,
+dbs-2-page_42,update delete delete insert insert 
+dbs-2-page_43,update update 
+dbs-2-page_44,update update 
+dbs-2-page_45,update 
+dbs-2-page_46,update update update update 
+dbs-2-page_47,delete delete delete delete 
+dbs-2-page_48,delete delete delete delete 
+dbs-2-page_49,foreignkey delete delete 
+dbs-2-page_50,insert insert 
+dbs-2-page_51,insert insert insert 
+dbs-2-page_52,insert insert select 
+dbs-2-page_53,
+dbs-2-page_54,
+dbs-2-page_55,
+dbs-2-page_56,
+dbs-2-page_57,
+dbs-2-page_58,
+dbs-6-page_1,
+dbs-6-page_2,
+dbs-6-page_3,
+dbs-6-page_4,
+dbs-6-page_5,
+dbs-6-page_6,
+dbs-6-page_7,
+dbs-6-page_8,
+dbs-6-page_9,
+dbs-6-page_10,
+dbs-6-page_11,
+dbs-6-page_12,
+dbs-6-page_13,
+dbs-6-page_14,select select join 
+dbs-6-page_15,select select 
+dbs-6-page_16,select 
+dbs-6-page_17,select 
+dbs-6-page_18,select join join join join naturaljoin naturaljoin 
+dbs-6-page_19,select join join join naturaljoin naturaljoin 
+dbs-6-page_20,select select join join join join 
+dbs-6-page_21,select select join join join 
+dbs-6-page_22,select join naturaljoin 
+dbs-6-page_23,distinct select select 
+dbs-6-page_24,select select 
+dbs-6-page_25,distinct select 
+dbs-6-page_26,distinct distinct select 
+dbs-6-page_27,select select select 
+dbs-6-page_28,select select join join naturaljoin naturaljoin 
+dbs-6-page_29,select 
+dbs-6-page_30,select between 
+dbs-6-page_31,select join join 
+dbs-6-page_32,select between between 
+dbs-6-page_33,
+dbs-6-page_34,select select 
+dbs-6-page_35,
+dbs-6-page_36,select select count 
+dbs-6-page_37,select select select select difference intersection 
+dbs-6-page_38,distinct select 
+dbs-6-page_39,
+dbs-6-page_40,
+dbs-6-page_41,
+dbs-6-page_42,select select 
+dbs-6-page_43,select 
+dbs-6-page_44,select join join naturaljoin 
+dbs-6-page_45,select select difference 
+dbs-6-page_46,join difference intersection 
+dbs-6-page_47,
+dbs-6-page_48,select join join outerjoin 
+dbs-6-page_49,count 
+dbs-6-page_50,update alter select select 
+dbs-6-page_51,select 
+dbs-6-page_52,select cast cast 
+dbs-6-page_53,select 
+dbs-6-page_54,select select select select 
+dbs-6-page_55,select select 
+dbs-6-page_56,
+dbs-6-page_57,select select select join 
+dbs-6-page_58,select select 
+dbs-6-page_59,
+dbs-6-page_60,avg avg avg sum sum sum 
+dbs-6-page_61,count count avg sum sum min 
+dbs-6-page_62,
+dbs-6-page_63,distinct distinct count count 
+dbs-6-page_64,select count 
+dbs-6-page_65,distinct distinct select select select select select count count avg avg 
+dbs-6-page_66,select select select 
+dbs-6-page_67,select select count 
+dbs-6-page_68,select 
+dbs-6-page_69,select sum sum 
+dbs-6-page_70,
+dbs-6-page_71,
+dbs-6-page_72,select sum sum 
+dbs-6-page_73,sum sum 
+dbs-6-page_74,select count 
+dbs-6-page_75,select join count count naturaljoin 
+dbs-6-page_76,select 
+dbs-6-page_77,
+dbs-6-page_78,join join join join join join join join join innerjoin outerjoin outerjoin outerjoin outerjoin outerjoin outerjoin naturaljoin leftouterjoin rightouterjoin 
+dbs-6-page_79,join naturaljoin 
+dbs-6-page_80,select join join outerjoin outerjoin count leftouterjoin 
+dbs-6-page_81,select select select join join join outerjoin outerjoin cast cast cast cast cast naturaljoin leftouterjoin 
+dbs-6-page_82,select select asc desc orderby 
+dbs-6-page_83,select join count desc naturaljoin orderby 
+dbs-6-page_84,select count count 
+dbs-6-page_85,
+dbs-6-page_86,count 
+dbs-6-page_87,
+dbs-6-page_88,select 
+dbs-6-page_89,
+dbs-6-page_90,select select select avg avg 
+dbs-6-page_91,select select avg avg avg avg 
+dbs-6-page_92,
+dbs-6-page_93,select select select 
+dbs-6-page_94,
+dbs-6-page_95,select select 
+dbs-6-page_96,distinct select select select 
+dbs-6-page_97,
+dbs-6-page_98,distinct select select select 
+dbs-6-page_99,insert 
+dbs-6-page_100,distinct select select select 
+dbs-6-page_101,
+dbs-6-page_102,select select select 
+dbs-6-page_103,
+dbs-6-page_104,
+dbs-6-page_105,
+dbs-6-page_106,
+dbs-6-page_107,
+dbs-6-page_108,
+dbs-6-page_109,
