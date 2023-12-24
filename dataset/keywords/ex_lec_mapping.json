@@ -1,0 +1,36 @@
+[
+  {
+    "language": "German",
+    "mapping": [
+      {
+        "exercise": "exercise3",
+        "lecture": [
+          "dbs-2"
+        ]
+      },
+      {
+        "exercise": "exercise9",
+        "lecture": [
+          "dbs-7"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "English",
+    "mapping": [
+      {
+        "exercise": "exercise3",
+        "lecture": [
+          "dbs-2"
+        ]
+      },
+      {
+        "exercise": "exercise8",
+        "lecture": [
+          "dbs-6"
+        ]
+      }
+    ]
+  }
+]

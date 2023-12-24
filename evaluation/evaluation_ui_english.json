@@ -1,0 +1,166 @@
+[
+  {
+    "exercise": "exc3",
+    "tasks": [
+      {
+        "task_number": "1",
+        "pages": [
+          "dbs-2-page_17",
+          "dbs-2-page_19",
+          "dbs-2-page_20"
+        ]
+      },
+      {
+        "task_number": "2",
+        "pages": [
+          "dbs-2-page_17",
+          "dbs-2-page_19",
+          "dbs-2-page_20"
+        ]
+      },
+      {
+        "task_number": "3",
+        "pages": [
+          "dbs-2-page_17",
+          "dbs-2-page_19",
+          "dbs-2-page_20"
+        ]
+      },
+      {
+        "task_number": "4",
+        "pages": [
+          "dbs-2-page_17",
+          "dbs-2-page_19",
+          "dbs-2-page_20",
+          "dbs-2-page_43",
+          "dbs-2-page_44",
+          "dbs-2-page_46"
+        ]
+      }
+    ]
+  },
+  {
+    "exercise": "exc8",
+    "tasks": [
+      {
+        "task_number": "1(a)",
+        "pages": [
+          "dbs-6-page_30",
+          "dbs-6-page_75",
+          "dbs-6-page_90",
+          "dbs-6-page_91"
+        ]
+      },
+      {
+        "task_number": "1(b)",
+        "pages": [
+          "dbs-6-page_30",
+          "dbs-6-page_32",
+          "dbs-6-page_45"
+        ]
+      },
+      {
+        "task_number": "1(c)",
+        "pages": [
+          "dbs-6-page_82",
+          "dbs-6-page_83",
+          "dbs-6-page_84"
+        ]
+      },
+
+      {
+        "task_number": "2(a)",
+        "pages": [
+          "dbs-6-page_81",
+          "dbs-6-page_52"
+        ]
+      },
+      {
+        "task_number": "2(b)",
+        "pages": [
+          "dbs-6-page_81",
+          "dbs-6-page_52",
+          "dbs-6-page_45",
+          "dbs-6-page_30"
+        ]
+      },
+      {
+        "task_number": "2(c)",
+        "pages": [
+          "dbs-6-page_81",
+          "dbs-6-page_52",
+          "dbs-6-page_45",
+          "dbs-6-page_30"
+        ]
+      },
+      {
+        "task_number": "2(e)",
+        "pages": [
+          "dbs-6-page_49",
+          "dbs-6-page_50",
+          "dbs-6-page_46"
+        ]
+      },
+      {
+        "task_number": "3(a)",
+        "pages": [
+          "dbs-6-page_74",
+          "dbs-6-page_75",
+          "dbs-6-page_64",
+          "dbs-6-page_65",
+          "dbs-6-page_57"
+        ]
+      },
+      {
+        "task_number": "3(b)",
+        "pages": [
+          "dbs-6-page_65",
+          "dbs-6-page_67",
+          "dbs-6-page_84"
+        ]
+      },
+      {
+        "task_number": "3(c)",
+        "pages": [
+          "dbs-6-page_65",
+          "dbs-6-page_90",
+          "dbs-6-page_91"
+        ]
+      },
+      {
+        "task_number": "3(d)",
+        "pages": [
+          "dbs-6-page_52",
+          "dbs-6-page_102",
+          "dbs-6-page_49"
+        ]
+      },
+      {
+        "task_number": "3(e)",
+        "pages": [
+          "dbs-6-page_69",
+          "dbs-6-page_93"
+        ]
+      },
+      {
+        "task_number": "4(a)",
+        "pages": [
+          "dbs-6-page_14",
+          "dbs-6-page_15",
+          "dbs-6-page_32",
+          "dbs-6-page_33"
+        ]
+      },
+      {
+        "task_number": "4(b)",
+        "pages": [
+          "dbs-6-page_14",
+          "dbs-6-page_23",
+          "dbs-6-page_60",
+          "dbs-6-page_64",
+          "dbs-6-page_65"
+        ]
+      }
+    ]
+  }
+]

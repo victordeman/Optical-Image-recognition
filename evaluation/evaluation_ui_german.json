@@ -1,0 +1,301 @@
+[
+  {
+    "exercise": "exercise3",
+    "tasks": [
+      {
+        "task_number": "1",
+        "pages": [
+          "dbs-2-page_11",
+          "dbs-2-page_14",
+          "dbs-2-page_15",
+          "dbs-2-page_50",
+          "dbs-2-page_51",
+          "dbs-2-page_52"
+        ]
+      },
+      {
+        "task_number": "2",
+        "pages": [
+          "dbs-2-page_11",
+          "dbs-2-page_14",
+          "dbs-2-page_15",
+          "dbs-2-page_44",
+          "dbs-2-page_45",
+          "dbs-2-page_46",
+          "dbs-2-page_50",
+          "dbs-2-page_53"
+        ]
+      },
+      {
+        "task_number": "3",
+        "pages": [
+          "dbs-2-page_11",
+          "dbs-2-page_14",
+          "dbs-2-page_15",
+          "dbs-2-page_50",
+          "dbs-2-page_51",
+          "dbs-2-page_52"
+        ]
+      },
+      {
+        "task_number": "4",
+        "pages": [
+          "dbs-2-page_11",
+          "dbs-2-page_14",
+          "dbs-2-page_15",
+          "dbs-2-page_51",
+          "dbs-2-page_52"
+        ]
+      },
+      {
+        "task_number": "6(a)",
+        "pages": [
+          "dbs-2-page_36",
+          "dbs-2-page_37",
+          "dbs-2-page_38",
+          "dbs-2-page_39",
+          "dbs-2-page_40"
+        ]
+      },
+      {
+        "task_number": "6(b)",
+        "pages": [
+          "dbs-2-page_36",
+          "dbs-2-page_41",
+          "dbs-2-page_42",
+          "dbs-2-page_43"
+        ]
+      },
+      {
+        "task_number": "6(c)",
+        "pages": [
+          "dbs-2-page_12",
+          "dbs-2-page_36",
+          "dbs-2-page_41",
+          "dbs-2-page_42"
+        ]
+      },
+      {
+        "task_number": "5(a)",
+        "pages": [
+          "dbs-2-page_44",
+          "dbs-2-page_45",
+          "dbs-2-page_46",
+          "dbs-2-page_53"
+        ]
+      },
+      {
+        "task_number": "5(b)",
+        "pages": [
+          "dbs-2-page_36",
+          "dbs-2-page_44",
+          "dbs-2-page_45",
+          "dbs-2-page_46",
+          "dbs-2-page_53"
+        ]
+      }
+    ]
+  },
+  {
+    "exercise": "exercise9",
+    "tasks": [
+      {
+        "task_number": "1(a)",
+        "pages": [
+          "dbs-7-page_13",
+          "dbs-7-page_14",
+          "dbs-7-page_26",
+          "dbs-7-page_34",
+          "dbs-7-page_71"
+        ]
+      },
+      {
+        "task_number": "1(b)",
+        "pages": [
+          "dbs-7-page_24"
+        ]
+      },
+      {
+        "task_number": "1(c)",
+        "pages": [
+          "dbs-7-page_77",
+          "dbs-7-page_78",
+          "dbs-7-page_79"
+        ]
+      },
+      {
+        "task_number": "1(d)",
+        "pages": [
+          "dbs-7-page_36"
+        ]
+      },
+      {
+        "task_number": "1(e)",
+        "pages": [
+          "dbs-7-page_17",
+          "dbs-7-page_28",
+          "dbs-7-page_48",
+          "dbs-7-page_52",
+          "dbs-7-page_62"
+        ]
+      },
+      {
+        "task_number": "1(f)",
+        "pages": [
+          "dbs-7-page_17",
+          "dbs-7-page_28",
+          "dbs-7-page_48",
+          "dbs-7-page_52",
+          "dbs-7-page_62"
+        ]
+      },
+      {
+        "task_number": "1(g)",
+        "pages": [
+          "dbs-7-page_17",
+          "dbs-7-page_28",
+          "dbs-7-page_48",
+          "dbs-7-page_52",
+          "dbs-7-page_62"
+        ]
+      },
+      {
+        "task_number": "2(a)",
+        "pages": [
+          "dbs-7-page_76",
+          "dbs-7-page_46"
+        ]
+      },
+      {
+        "task_number": "2(b)",
+        "pages": [
+          "dbs-7-page_28",
+          "dbs-7-page_36",
+          "dbs-7-page_37",
+          "dbs-7-page_46",
+
+          "dbs-7-page_76"
+
+        ]
+      },
+      {
+        "task_number": "2(c)",
+        "pages": [
+          "dbs-7-page_28",
+          "dbs-7-page_36",
+          "dbs-7-page_37",
+          "dbs-7-page_43",
+          "dbs-7-page_46",
+          "dbs-7-page_76",
+          "dbs-7-page_77",
+          "dbs-7-page_78"
+        ]
+      },
+      {
+        "task_number": "2(e)",
+        "pages": [
+          "dbs-7-page_17",
+          "dbs-7-page_28",
+          "dbs-7-page_48",
+          "dbs-7-page_52",
+          "dbs-7-page_62"
+        ]
+      },
+      {
+        "task_number": "3(a)",
+        "pages": [
+          "dbs-7-page_57",
+          "dbs-7-page_59",
+          "dbs-7-page_60",
+          "dbs-7-page_63",
+          "dbs-7-page_71"
+        ]
+      },
+      {
+        "task_number": "3(b)",
+        "pages": [
+          "dbs-7-page_57",
+          "dbs-7-page_59",
+          "dbs-7-page_60",
+          "dbs-7-page_63",
+          "dbs-7-page_70",
+          "dbs-7-page_71",
+          "dbs-7-page_79"
+        ]
+      },
+      {
+        "task_number": "3(c)",
+        "pages": [
+          "dbs-7-page_61",
+          "dbs-7-page_57"
+        ]
+      },
+      {
+        "task_number": "3(d)",
+        "pages": [
+          "dbs-7-page_56",
+          "dbs-7-page_57",
+          "dbs-7-page_65",
+          "dbs-7-page_68",
+          "dbs-7-page_69"
+        ]
+      },
+      {
+        "task_number": "3(e)",
+        "pages": [
+          "dbs-7-page_57"
+        ]
+      },
+      {
+        "task_number": "3(f)",
+        "pages": [
+          "dbs-7-page_27",
+          "dbs-7-page_36",
+          "dbs-7-page_37"
+        ]
+      },
+      {
+        "task_number": "4(c)",
+        "pages": [
+          "dbs-7-page_64",
+          "dbs-7-page_71",
+          "dbs-7-page_75",
+          "dbs-7-page_78"
+        ]
+      },
+      {
+        "task_number": "5(a)",
+        "pages": [
+          "dbs-7-page_16",
+          "dbs-7-page_35",
+          "dbs-7-page_71",
+          "dbs-7-page_74",
+          "dbs-7-page_76",
+          "dbs-7-page_78"
+        ]
+      },
+      {
+        "task_number": "5(b)",
+        "pages": [
+          "dbs-7-page_73",
+          "dbs-7-page_74",
+          "dbs-7-page_75"
+        ]
+      },
+      {
+        "task_number": "5(c)",
+        "pages": [
+          "dbs-7-page_73",
+          "dbs-7-page_74"
+        ]
+      },
+      {
+        "task_number": "5(d)",
+        "pages": [
+          "dbs-7-page_73",
+          "dbs-7-page_74"
+        ]
+      }
+    ]
+  }
+]
